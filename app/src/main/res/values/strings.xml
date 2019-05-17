@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">latDasar</string>
+    <string name="nama_saya">enter your name</string>
+    <string-array name="agama">
+        <item>Islam</item>
+        <item>Kristen</item>
+    </string-array>
+</resources>
